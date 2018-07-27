@@ -15,5 +15,6 @@ link_libraries(cppzmq)
 add_executable(hwserver hwserver.cpp)
 add_executable(hwclient hwclient.cpp)
 add_executable(wuserver wuserver.cpp)
+add_executable(wuclient wuclient.cpp)
 
 
